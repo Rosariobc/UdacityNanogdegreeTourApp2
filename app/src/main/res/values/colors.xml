@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#64b5f6</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#0d47a1</color>
+
+    <!-- Primary accent color of the app (shown in the status bar) -->
+    <color name="primary_accent">#b71c1c</color>
+
+    <!-- Background color for app -->
+    <color name="basic_background">#64b5f6</color>
+
+    <!-- Background color for the downtown category -->
+    <color name="category_downtown">#1a237e</color>
+
+    <!-- Background color for the midtown category -->
+    <color name="category_midtown">#1a237e</color>
+
+    <!-- Background color for the central park category -->
+    <color name="category_north">#1a237e</color>
+
+    <!-- Background color for the lic category -->
+    <color name="category_east">#1a237e</color>
+
+    <!-- Background color for the text -->
+    <color name="text">#bbdefb</color>
+
+    <!-- Background color for the address text -->
+    <color name="address">#f44336</color>
+
+</resources>

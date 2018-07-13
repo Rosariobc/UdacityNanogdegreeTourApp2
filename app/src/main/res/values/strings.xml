@@ -1,0 +1,209 @@
+<resources>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">NYC tour en Español</string>
+
+    <!-- Category name for zones [CHAR LIMIT=20] -->
+    <string name="category_general">New York City</string>
+    <string name="general">New York City</string>
+
+    <string name="category_downtown">Downtown</string>
+
+    <string name="category_midtown">Midtown</string>
+
+    <string name="category_north">Central Park and North</string>
+
+    <string name="category_east">East River, LIC and Brooklyn</string>
+
+    <!-- Words for each zone -->
+
+    <!-- Words for Downtown -->
+
+    <string name="wtc_name">Torre World Trade Center One</string>
+    <string name="wtc_description">El edificio más alto de Nueva York, construido frente al área de
+        las torres gemelas con un diseño arquitectónico muy llamativo. Cuenta con un mirador para disfrutar
+        la ciudad en su máximo esplendor.</string>
+    <string name="wtc_address">285 Fulton St, New York, NY 10007</string>
+
+    <string name="one_name">Parque 9 11 Memorial</string>
+    <string name="one_description">Es un espacio de reflexión y recogimiento en memoria de las víctimas
+        del atentado del 11 de septiembre de 2001 ubicado en el área ocupada por las antiguas torres
+        gemelas. Existe allí también el museo del 9-11</string>
+    <string name="one_address">180 Greenwich St, New York, NY 10007</string>
+
+    <string name="oculus_name">Oculus and Westfield World Trade Center Mall - Path Station </string>
+    <string name="oculus_description">Estructura contemporánea construida por Santiago Calatrava que
+        contrasta con la zona del WTC y en su interior reúne un bello centro comercial y una de las
+        principales estaciones de trenes de la ciudad de NY.</string>
+    <string name="oculus_address">185 Greenwich St, New York, NY 10007</string>
+
+    <string name="battery_name">Battery Park</string>
+    <string name="battery_description">Este parque reúne muchas historia de la ciudad, puerto de llegada
+        de las primeras migraciones, monumentos a los héroes nacionales de las fuerzas militares,
+        lindos jardines, esculturas fijas o de exposiciones itinerantes y un imponente carrusel para
+        niños y adultos que mezcla diseño, luces y sonidos para pasar un rato mágico.</string>
+    <string name="battery_address">Battery Pl, State St and Whitehall St</string>
+
+    <string name="girl_name">The Fearless Girl</string>
+    <string name="girl_description">La estatua de una niña sin miedo ha sido puesta enfrente al
+        tradicional toro que representa los mercados financieros en Wall Street. </string>
+    <string name="girl_address">8 Broadway, New York, NY 10004</string>
+
+    <string name="chelsea_name">Chelsea Market</string>
+    <string name="chelsea_description">Estructura antigua y restaurada del mercado de Chelsea que reúne
+        magníficos restaurantes y variadas tiendas de artículos de cocina, ropa y decoración entre
+        muchos otros.</string>
+    <string name="chelsea_address">75 9th Ave, New York, NY 10011</string>
+
+    <string name="line_name">The High Line Park</string>
+    <string name="line_description">Antigua estructura de la línea elevada del metro de la ciudad
+        donde por más de 2 kilómetros se puede caminar entre jardines, espacios modernos y los antiguos
+        rieles a través de distintos tipos de edificios de la ciudad dando la oportunidad de disfrutar
+        la arquitectura, la vista y los atardeceres de la gran manzana</string>
+    <string name="line_address">14th St 10th Ave, New York, NY</string>
+
+    <string name="staten_name">Estación Ferry Staten Island Whitehall Terminal </string>
+    <string name="staten_description">La moderna estación del Ferry de Staten Island a miles de personas
+        en las dos vías hacia y desde la isla cruzando muy cerca de la Estatua de la Libertad en
+        un trayecto de cerca de 30 minutos</string>
+    <string name="staten_address">4 S St, New York, NY 10004</string>
+
+    <!-- Words for Midtown -->
+
+    <string name="times_name">Times Square</string>
+    <string name="times_description">Cuando se dice que NY nunca duerme es porque las luces
+        de times square la iluminan. Edificios, tiendas, teatros y deliciosos restaurantes hacen de
+        esta iconica zona de la ciudad uno de los puntos obligatorios para caminar y disfrutar la
+        magia de Nueva York. Hacia el occidente de times square se encuentran los tradicionales y elegantes teatros de Broadway.</string>
+    <string name="times_address">Broadway, 7th Avenue, entre 42nd y 47th Streets</string>
+
+    <string name="gcs_name">Grand Central Station</string>
+    <string name="gcs_description">La estación de trenes y líneas de metro más bella de Nueva York,
+        una pieza de arquitectura sin igual que en su interior recibe y despacha millones de
+        pasajeros diariamente. Cuenta con distintos espacios donde se desarrollan ferias de gastronomía
+        y cuenta con almacenes, restaurantes y el pequeño museo del transporte de NY.</string>
+    <string name="gcs_address">42th St Vanderbilt Ave NY 10017</string>
+
+    <string name="carnegie_name">Carnegie Hall Theater </string>
+    <string name="carnegie_description">Tal vez el teatro más tradicional para conciertos en Nueva York,
+        donde los grandes músicos sueñan tocar y donde los melomanos y el público en general sueña
+        asistir a deleitarse de la música. Cuenta con varios teatros en su interior para conciertos de menor tamaño. Calle 56 y 57</string>
+    <string name="carnegie_address">1260 6th Ave, New York, NY 10020</string>
+
+    <string name="san_patricks_name">Saint Patrick Cathedral </string>
+    <string name="san_patricks_description">Es la bella catedral de la ciudad de a Nueva York, donde
+        se reúne la comunidad católica y es visitada y admirada por millones de turistas de distintos
+        credos por la majestuosidad de su interior y su fachada. Calle 50 y 51</string>
+    <string name="san_patricks_address">5th Ave, New York, NY 10022</string>
+
+    <string name="hudson_name">34th Hudson Yards Station </string>
+    <string name="hudson_description">La estación del metro inaugurada en 2017 donde inicia o termina
+        la línea 7 tiene un diseño con largas y empinadas escaleras eléctricas que acceden a una
+        blanca y amplia estación en un Rea de la ciudad que está desarrollándose y creciendo a altas velocidades.</string>
+    <string name="hudson_address">34th St 11th Ave, New York, NY</string>
+
+    <string name="bryant_name">Bryant Park</string>
+    <string name="bryant_description">Tradicional parque de NY donde en cada estación del año cuenta con
+        actividades especiales como teatro, yoga, conciertos al aire libre o una de la s más bellas
+        pistas de patinaje sobre hielo rodeada de una magnífica feria de navidad. Cuenta con una bella
+        fuente en la parte occidental y un carrusel para niños. 42 th St entre 5 Ave y 6 Ave.</string>
+    <string name="bryant_address">New York, NY 10018</string>
+
+    <string name="library_name">Biblioteca Pública De Nueva York</string>
+    <string name="library_description">Es sencillamente uno de los monumentos más icónicos y elegantes
+        de NY, su fachada y cada uno de los salones, escaleras y rincones de la biblioteca esconde la
+        historia del mundo entero. Se pueden disfrutar exposiciones de arte itinerantes en su interior.</string>
+    <string name="library_address">476 5th Ave, New York, NY 10018</string>
+
+    <string name="rockefeller_name">Rockefeller Center</string>
+    <string name="rockefeller_description">Esta plaza reúne uno de los edificios más altos con el mirador
+        Top of the Rock, la plaza donde el ángel dorado y el tradicional árbol de navidad de NY
+        iluminan la ilusión de millones de turistas y residentes cada año frente a la pequeña pero
+        más tradicional pista de hielo de la ciudad. A su alrededor encontramos muchas tiendas y restaurantes. Calles 49 y 50</string>
+    <string name="rockefeller_address">45 Rockefeller Plaza, New York, NY 10111</string>
+
+    <string name="radio_name">Radio City Music Hall Theater </string>
+    <string name="radio_description">Uno de los teatros más famosos de Nueva York no solo por su
+        arquitectura y belleza interior sino por los shows de las bailarinas rockettes, si está en
+        Nueva York en navidad, no deje de ver el show de navidad. Calle 50 y 51</string>
+    <string name="radio_address">1260 6th Ave, New York, NY 10020</string>
+
+    <!-- Words for North -->
+
+    <string name="park_name">Central Park</string>
+    <string name="park_description">El pulmón de Manhattan, donde la familia se reúne a caminar, hacer
+        deporte, pintar, remar en botes o manejar veleros a control remoto, a ver los distintos
+        espectáculos que se presentan en cada rincón del parque, en su zoológico, o parque infantil,
+        así como al rededor del lago Jackeline Onassis. Es un oasis dentro de esta gran manzana. Sur calle 59
+        entre 5 y 8 avenida. Norte calle 110 entre 5 y 8 avenida</string>
+    <string name="park_address">Sur calle 59 entre 5 y 8 avenida. Norte calle 110 entre 5 y 8 avenida</string>
+
+    <string name="colombus_name">Columbus Circle </string>
+    <string name="colombus_description">Imponente monumento a Cristobal Colón en la calle 59 donde se
+        unen la 8 avenida, Broadway y Park West Avenue. A su alrededor se encuentran bellos edificios
+        de distintos diseños y épocas y es el inicio en la parte sur occidental del Central Park</string>
+    <string name="colombus_address">Calle 59 8 Ave y Broadway</string>
+
+    <string name="zoo_name">NYC Bronx Zoo</string>
+    <string name="zoo_description">El zoológico de Nueva York tiene un extenso terreno localizado al
+        norte de Manhattan y es por esto que logra tener colecciones de animales de todas las
+        regiones del planeta. Es una visita obligada, pero dada su extensión vale la pena hacer planes
+        para pasar el día entero en el.</string>
+    <string name="zoo_address">2300 Southern Blvd, Bronx, NY 10460</string>
+
+    <!-- Words for East River -->
+
+    <string name="river_name">East River</string>
+    <string name="river_description">Las islas de Manhattan y de Long Island están separadas por el
+        east river, el cual se puede recorrer y disfrutar de las orillas y vistas de Manhattan, Long
+        Island City y Brooklyn utilizando el ferry de NYC Ferry. Aunque puede bajarse en cada uno de
+        los muelles donde hace las paradas, puede también hacer el recorrido completo frente a Roosevelt
+        Island, los parques Gantry Park y Hunters Point South en Long Island City, y ver las maravillas
+        del diseño de ingeniería de cada uno de los puentes que comunica a Manhattan con Brooklyn.</string>
+    <string name="river_address">East of Manhattan</string>
+
+    <string name="ferry_name">East River Ferry</string>
+    <string name="ferry_description">Es una gran alternativa para conocer el costado oriental de Manhattan,
+        las ciudades de Astoria, Long Island City y Brooklyn desde los nuevos barcos que nos pasean
+        por la historia de Nueva York al cruzar por debajo de los puentes de Queensboro, Williamsburg, Manhattan y Brooklyn.</string>
+    <string name="ferry_address">East of Manhattan</string>
+
+    <string name="un_name">United Nations Headquarters</string>
+    <string name="un_description">Un edificio con gran significado para el mundo entero por las
+        decisiones que en su interior se han tomado; puede realizar visitas guiadas al interior del
+        edificio o simplemente disfrutarlo desde el exterior desde la 1 avenida entre calles 42y 47
+        o desde Long Island City.</string>
+    <string name="un_address">405 East 42nd Street, New York, NY, 10017</string>
+
+    <string name="lic_name">Long Island City</string>
+    <string name="lic_description">A tan solo 3 minutos bajo el east river en la línea 7 del metro o
+        a 6 minutos en el NYC Ferry, se encuentra la moderna y agradable Long Island City; antigua
+        área de bodegas hasta donde llegaban los trenes de carga que hoy se ha convertido en un espacio
+        residencial, con deliciosos restaurantes, parques como Gantry Plaza y Hunters Point South para
+        compartir y disfrutar en familia con una de las mejores panorámicas sobre Manhattan.</string>
+    <string name="lic_address">Long Island City, NY, 11109</string>
+
+    <string name="brooklyn_bridge_name">Brooklyn Bridge</string>
+    <string name="brooklyn_bridge_description">Disfrutar la ciudad de NY caminando sobre el puente de
+        Brooklyn es una magnífica experiencia para los amantes de la fotografía, de la ingeniería y
+        de la historia. Es recomendable empezar el recorrido desde Brooklyn hacia Manhattan, mejor
+        si antes han visitado el parque de la batalla de Brooklyn -lugar de llegada del NYCFerry. </string>
+    <string name="brooklyn_bridge_address">Brooklyn Bridge, New York, NY 10038</string>
+
+    <string name="acquarium_name">Acquarium</string>
+    <string name="acquarium_description">En Connie Island donde se pueden disfrutar en tiempo de verano
+        las atracciones mecánicas música y comida tradicional, aparece el renovado acuario de Nueva
+        York, que nos recuerda con sus bellos animales, que estamos en una gran ciudad constituida por varias islas.</string>
+    <string name="acquarium_address">602 Surf Ave, Brooklyn, NY 11224</string>
+
+    <string name="roosevelt_island_name">Roosevelt Island</string>
+    <string name="roosevelt_island_description">Luego de utilizar el único teleférico de NY, encuentran
+        una interesante isla en medio del east river donde puedes visitar el parque de las cuatro
+        libertades, monumentos de la ciudad como el faro en el extremo norte o las ruinas del hospital
+        al sur. Caminar al rededor de la isla es un plan único rodeado de naturaleza y los edificios
+        de una ciudad dentro de la gran manzana.</string>
+    <string name="roosevelt_island_address">Roosevelt Island, NY</string>
+
+</resources>
